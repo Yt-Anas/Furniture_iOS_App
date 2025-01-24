@@ -9,6 +9,7 @@ An elegant and user-friendly iOS application to showcase and manage furniture pr
 📱 Responsive Design: Optimized for both iPhone and iPad devices.
 
 🛠️ Technologies Used
+
 Programming Language: Swift
 IDE: Xcode
 UI Framework: UIKit
