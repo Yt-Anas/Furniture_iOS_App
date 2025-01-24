@@ -22,7 +22,6 @@ An elegant and user-friendly iOS application to showcase and manage furniture pr
 | **Xcode**         | Integrated development environment   |
 | **UIKit**         | User interface framework             |
 | **Core Data**     | Data storage                         |
-| **URLSession**    | Networking for API calls             |
 
 ---
 
@@ -118,11 +117,6 @@ Contributions are always welcome!
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project, provided proper credit is given to the original authors.
-
----
 
 ## 📧 Contact
 
