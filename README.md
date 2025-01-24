@@ -1,14 +1,20 @@
-:
 
 🛋️ Furniture iOS App
+
 An elegant and user-friendly iOS application to showcase and manage furniture products.
 
 ✨ Features
 🛒 Product Catalog: Browse a variety of furniture items with detailed descriptions and images.
+
 🔍 Search Functionality: Quickly find specific furniture pieces with ease.
+
 ❤️ Favorites: Save your favorite items for quick access later.
+
 🔒 User Authentication: Secure user login and registration system.
+
 📱 Responsive Design: Optimized for both iPhone and iPad devices.
+
+
 🛠️ Technologies Used
 Technology	Description
 Swift	Programming language
