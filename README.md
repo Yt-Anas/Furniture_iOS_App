@@ -20,8 +20,7 @@ An elegant and user-friendly iOS application to showcase and manage furniture pr
 |-------------------|---------------------------------------|
 | **Swift**         | Programming language                 |
 | **Xcode**         | Integrated development environment   |
-| **UIKit**         | User interface framework             |
-| **Core Data**     | Data storage                         |
+| **SwiftUI**         | User interface framework             |
 
 ---
 
